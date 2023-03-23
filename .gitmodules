@@ -3,3 +3,38 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BayesBinMix"]
+	path = BayesBinMix
+	url = https://github.com/cran/BayesBinMix
+	shallow = true
+	registered = true
+[submodule "beast"]
+	path = beast
+	url = https://github.com/cran/beast
+	shallow = true
+	registered = true
+[submodule "fabMix"]
+	path = fabMix
+	url = https://github.com/cran/fabMix
+	shallow = true
+	registered = true
+[submodule "factor.switching"]
+	path = factor.switching
+	url = https://github.com/cran/factor.switching
+	shallow = true
+	registered = true
+[submodule "label.switching"]
+	path = label.switching
+	url = https://github.com/cran/label.switching
+	shallow = true
+	registered = true
+[submodule "multinomialLogitMix"]
+	path = multinomialLogitMix
+	url = https://github.com/cran/multinomialLogitMix
+	shallow = true
+	registered = true
+[submodule "poisson.glm.mix"]
+	path = poisson.glm.mix
+	url = https://github.com/cran/poisson.glm.mix
+	shallow = true
+	registered = true
