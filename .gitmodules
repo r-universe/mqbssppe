@@ -5,6 +5,9 @@
 [submodule "BayesBinMix"]
 	path = BayesBinMix
 	url = https://github.com/cran/BayesBinMix
+[submodule "bayesCureRateModel"]
+	path = bayesCureRateModel
+	url = https://github.com/cran/bayesCureRateModel
 [submodule "beast"]
 	path = beast
 	url = https://github.com/cran/beast
